@@ -1,0 +1,55 @@
+review\main.o: ../Src/main.c
+review\main.o: ../Inc/main.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+review\main.o: ../Inc/stm32g4xx_hal_conf.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+review\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+review\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+review\main.o: ../Drivers/CMSIS/Include/core_cm4.h
+review\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stdint.h
+review\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+review\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+review\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+review\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+review\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+review\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stddef.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dac.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dac_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rtc.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rtc_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
+review\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_pwr.h
+review\main.o: ../Inc/lcd.h
+review\main.o: ../Inc/main.h
+review\main.o: ../Inc/adc.h
+review\main.o: ../Inc/dac.h
+review\main.o: ../Inc/rtc.h
+review\main.o: ../Inc/tim.h
+review\main.o: ../Inc/usart.h
+review\main.o: ../Inc/gpio.h
+review\main.o: ../Inc/led.h
+review\main.o: ../Inc/key.h
+review\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stdio.h
+review\main.o: ../Inc/i2c_hal.h
+review\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\string.h

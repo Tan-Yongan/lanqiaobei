@@ -1,0 +1,13 @@
+--cpu=Cortex-M4.fp
+"key_ll\main.o"
+"key_ll\stm32g4xx_it.o"
+"key_ll\startup_stm32g431xx.o"
+"key_ll\stm32g4xx_ll_utils.o"
+"key_ll\stm32g4xx_ll_exti.o"
+"key_ll\stm32g4xx_ll_gpio.o"
+"key_ll\stm32g4xx_ll_pwr.o"
+"key_ll\system_stm32g4xx.o"
+--library_type=microlib --strict --scatter "KEY_LL\KEY_LL.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "KEY_LL.map" -o KEY_LL\KEY_LL.axf

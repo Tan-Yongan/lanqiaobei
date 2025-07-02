@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp.sp
+"test06_eeprom\startup_stm32g431xx.o"
+"test06_eeprom\main.o"
+"test06_eeprom\gpio.o"
+"test06_eeprom\stm32g4xx_it.o"
+"test06_eeprom\stm32g4xx_hal_msp.o"
+"test06_eeprom\stm32g4xx_hal_tim.o"
+"test06_eeprom\stm32g4xx_hal_tim_ex.o"
+"test06_eeprom\stm32g4xx_hal_pwr_ex.o"
+"test06_eeprom\stm32g4xx_hal.o"
+"test06_eeprom\stm32g4xx_hal_rcc.o"
+"test06_eeprom\stm32g4xx_hal_rcc_ex.o"
+"test06_eeprom\stm32g4xx_hal_flash.o"
+"test06_eeprom\stm32g4xx_hal_flash_ex.o"
+"test06_eeprom\stm32g4xx_hal_flash_ramfunc.o"
+"test06_eeprom\stm32g4xx_hal_gpio.o"
+"test06_eeprom\stm32g4xx_hal_exti.o"
+"test06_eeprom\stm32g4xx_hal_dma.o"
+"test06_eeprom\stm32g4xx_hal_dma_ex.o"
+"test06_eeprom\stm32g4xx_hal_pwr.o"
+"test06_eeprom\stm32g4xx_hal_cortex.o"
+"test06_eeprom\system_stm32g4xx.o"
+"test06_eeprom\lcd.o"
+"test06_eeprom\i2c_hal.o"
+--strict --scatter "test06_eeprom\test06_eeprom.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "test06_eeprom.map" -o test06_eeprom\test06_eeprom.axf

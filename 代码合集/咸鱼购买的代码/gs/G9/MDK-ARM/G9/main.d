@@ -1,0 +1,49 @@
+g9\main.o: ../Src/main.c
+g9\main.o: ../Inc/main.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+g9\main.o: ../Inc/stm32g4xx_hal_conf.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+g9\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+g9\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+g9\main.o: ../Drivers/CMSIS/Include/core_cm4.h
+g9\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stdint.h
+g9\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+g9\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+g9\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+g9\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+g9\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+g9\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stddef.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
+g9\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_pwr.h
+g9\main.o: ../Inc/lcd.h
+g9\main.o: ../Inc/main.h
+g9\main.o: ../Inc/adc.h
+g9\main.o: ../Inc/tim.h
+g9\main.o: ../Inc/usart.h
+g9\main.o: ../Inc/gpio.h
+g9\main.o: ../Inc/led.h
+g9\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stdio.h
+g9\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\string.h
+g9\main.o: D:\keil for two\ARM\ARMCC\Bin\..\include\math.h
+g9\main.o: ../Inc/i2c_hal.h

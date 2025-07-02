@@ -1,0 +1,14 @@
+led_test\stm32g4xx_ll_utils.o: ../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_utils.c
+led_test\stm32g4xx_ll_utils.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_utils.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Include/core_cm4.h
+led_test\stm32g4xx_ll_utils.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Include/cmsis_version.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_rcc.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_system.h
+led_test\stm32g4xx_ll_utils.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_pwr.h

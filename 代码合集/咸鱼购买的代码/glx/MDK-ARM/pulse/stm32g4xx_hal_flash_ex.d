@@ -1,0 +1,34 @@
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Inc/stm32g4xx_hal_conf.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Include/core_cm4.h
+pulse\stm32g4xx_hal_flash_ex.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stdint.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Include/cmsis_version.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+pulse\stm32g4xx_hal_flash_ex.o: D:\keil for two\ARM\ARMCC\Bin\..\include\stddef.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim.h
+pulse\stm32g4xx_hal_flash_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h
