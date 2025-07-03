@@ -2,7 +2,7 @@
 蓝桥杯历届省赛国赛真题代码
 
 没有什么比官方给的资料更好
-#蓝桥杯选手资源数据包
+#蓝桥杯选手资源数据包(一定要在这下载！！！由于git限制，有些zip和exe文件过大无法上传，导致不完全)
 https://dasai.lanqiao.cn/notices/1096/
 #蓝桥杯历届国赛省赛真题
 https://www.lanqiao.cn/courses/2786
